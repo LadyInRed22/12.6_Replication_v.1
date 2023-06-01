@@ -23,7 +23,7 @@ Master/Master является намного менее используемо�
 ![image](https://user-images.githubusercontent.com/103531664/221381378-ee5b4611-c9ea-499e-aead-a169f83053e7.png)
 ---
 #### Статус службы:
-![image](https://user-images.githubusercontent.com/103531664/221381388-8810ba25-458f-42f8-8053-930c1005f235.png)
+![image](https://github.com/LadyInRed22/12.6_Replication_v.1/assets/103531664/7907d438-4935-47f8-aa94-db3d9a11e756)
 ---
 #### Статус мастера и создание тестовой БД:
 ![image](https://user-images.githubusercontent.com/103531664/221381429-15468c4c-8d49-4c7c-b718-3e09c1370b77.png)
@@ -33,7 +33,7 @@ Master/Master является намного менее используемо�
 ![image](https://user-images.githubusercontent.com/103531664/221381463-b70d4b23-19a9-43fa-9f06-935b2df75ef2.png)
 ---
 #### Статус службы:
-![image](https://user-images.githubusercontent.com/103531664/221381474-524c3d13-ccf1-4890-90a8-f04e458caf29.png)
+![image](https://github.com/LadyInRed22/12.6_Replication_v.1/assets/103531664/836524e4-762a-4bca-9c32-df1c5846479d)
 ---
 #### Статус слейва:
 ![image](https://user-images.githubusercontent.com/103531664/221381644-6afafc71-2a40-44de-82f1-2297c2610306.png)
